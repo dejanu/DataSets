@@ -1,17 +1,17 @@
 Date,Vehicle,Status,Notes
 March 2005,Charon,Success,Altitude of 96m
 November 2006,Goddard,Success,Rocket powered test flight
-March 2007,Goddard,Failure
-April 2007,Goddard,Failure
-May 2011,PM2,Success
-August 2011,PM2,Failure
+March 2007,Goddard,Failure,
+April 2007,Goddard,Failure,
+May 2011,PM2,Success,
+August 2011,PM2,Failure,
 October 2012,New_Shepard,Failure,Pad escape
-April 2015,New_Shepard,Success
-November 2015,New_Shepard,Success
-January 2016,,New_Shepard,Success
-April 2016,New_Shepard,Success
-June 2016,New_Shepard,Success
-October 2016,New_Shepard,Success
-December 2017,New_Shepard,Success
-April 2018,New_Shepard,Success
-July 2018,New_Shepard, Failure
+April 2015,New_Shepard,Success,
+November 2015,New_Shepard,Success,
+January 2016,,New_Shepard,Success,
+April 2016,New_Shepard,Success,
+June 2016,New_Shepard,Success,
+October 2016,New_Shepard,Success,
+December 2017,New_Shepard,Success,
+April 2018,New_Shepard,Success,
+July 2018,New_Shepard, Failure,
