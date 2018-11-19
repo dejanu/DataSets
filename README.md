@@ -1,3 +1,19 @@
+# Question as a starting point:
+
+1) What question(s) am I trying to answer? Do I think the data collected can answer that question?
+
+2) What is the best way to phrase my question(s) as a machine learning problem?
+
+3) Have I collected enough data to represent the problem I want to solve?
+
+4) What features of the data did I extract, and will these enable the right predictions?
+
+5) How will I measure success in my application?
+
+6) How will the machine learning solution interact with other parts of my research or business product?
+
+-------
+
 # Questions for Data  
 
 1) Question is Sharp ?
