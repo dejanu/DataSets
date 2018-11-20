@@ -38,5 +38,6 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio/data-science-for-
 # Model interaction
 
 1) Define the interaction with the data science models: REST?   RPC calls RabbitMQ?    Kafka Message Bus?
-2) Plan to use notebooks (Jupyther, Azure Notebook, Google colab)
+2) Plan to use notebooks (Jupyther, Azure Notebook, Google colab)  
+3) Model retraining (Cron for the pipeline or Airflow)
 
